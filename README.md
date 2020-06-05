@@ -1,4 +1,3 @@
-tetriside
 <img src='http://tetris.analisasoftware.com.br/image/tetriside.png' /><br/>
 TetrisIDE - Java Visual Development
 
